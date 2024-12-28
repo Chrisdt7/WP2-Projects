@@ -1,3 +1,68 @@
+# Hi there, I'm Chrisdt7! 👋  
+
+Welcome to my GitHub profile! I'm a passionate developer with a knack for coding and learning new things. 🚀  
+
+---
+
+## 🌟 About Me  
+
+- 🔭 **Currently Working On**: [Koperasi-App]  
+- 🌱 **Learning**: [React, Kotlin]  
+- 👯 **Open to Collaborate On**: [Projects or Open Source Contributions]  
+- 🤔 **Seeking Help With**: [Any Specific Help Needed]  
+- 📫 **Reach Me At**: [![Whatsapp](https://wa.me/+6281328438393/)]
+
+---
+
+## 🛠️ Languages & Tools  
+
+Here are some technologies I work with:  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat)  
+
+---
+
+## 📈 GitHub Stats  
+
+![Chrisdt7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisdt7&show_icons=true&theme=dark)  
+
+---
+
+## 📫 Connect with Me  
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/christy-tallane-a25605261/)  
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/christy.danytallane)  
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/danytallane/)  
+- [![E-Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christytallane@gmail.com)  
+
+Feel free to reach me anytime! 😊  
+
+---
+
+## 🛠️ CodeIgniter 4 Ordering App
+
+### Prerequisites  
+
+- **XAMPP Control Panel**  
+- **CodeIgniter 4**
+
+### Steps to Run  
+
+1. Start **XAMPP Control Panel**. 
+2. Start Apache & MySQL.
+3. Create a new database named `wp2_projects` and import the database file located in `database/wp2_projects.sql`.  
+4. Open your browser and go to : http://localhost/WP2-Projects/public/
+
+   That's it! You're ready to go. 🎉
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
