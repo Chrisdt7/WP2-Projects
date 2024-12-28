@@ -1,0 +1,17 @@
+body {
+	/*background-image: url(../../img/page-title.jpg);*/
+	background-color: #eee;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;;
+}
+
+.rounded {
+	border-radius: 10px !important;
+}
+
+.cust-footer {
+	position: fixed;
+	bottom: 0 !important;
+}
